@@ -1,4 +1,4 @@
-KIDCAD Intro PCB Project
+# KIDCAD Intro PCB Project
 
 
 Hello,
